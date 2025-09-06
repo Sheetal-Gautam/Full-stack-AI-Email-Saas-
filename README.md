@@ -33,7 +33,7 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Elliott-Chong/normalhuman.git
+   git clone https://github.com/Sheetal-Gautam/Full-stack-AI-Email-Saas-
    ```
 
 2. **Navigate to the project directory**
